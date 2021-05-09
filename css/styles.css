@@ -15,5 +15,17 @@ h3{
     border-width: 5px;
     width: 5%;
   }
-img {
-  background-color: red;
+  img:hover{
+    background: gold;
+  }
+
+  .broccoli
+  {
+    background: green;
+  }
+  .sandwitch{
+    background: red;
+  }
+  .circular{
+    border-radius: 100%;
+  }
